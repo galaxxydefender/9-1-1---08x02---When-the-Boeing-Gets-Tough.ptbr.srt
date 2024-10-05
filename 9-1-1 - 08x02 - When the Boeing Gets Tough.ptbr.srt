@@ -1,0 +1,3559 @@
+1
+00:00:07,593 --> 00:00:10,044
+O quê? Não estamos na primeira classe?
+
+2
+00:00:10,044 --> 00:00:12,081
+Ganhe o torneio, talvez no caminho de volta.
+
+3
+00:00:12,081 --> 00:00:13,841
+Eu me contentaria com a classe econômica plus.
+
+4
+00:00:13,841 --> 00:00:16,109
+Bem, diga ao Mitch que não vou passar de cinco por cento.
+
+5
+00:00:16,134 --> 00:00:18,225
+Ele quer nove? O que ele é, alto?
+
+6
+00:00:18,225 --> 00:00:20,330
+Certo, diga a ele que lhe daremos seis e meio.
+
+7
+00:00:20,330 --> 00:00:22,574
+Sim, seis e meio, e essa é minha oferta final.
+
+8
+00:00:22,574 --> 00:00:24,921
+Sim. Certo. Tchau.
+
+9
+00:00:24,921 --> 00:00:26,923
+Olá. Quem é? Olá.
+
+10
+00:00:26,923 --> 00:00:28,062
+Oh.
+
+11
+00:00:28,062 --> 00:00:29,753
+Ele não gosta de homens.
+
+12
+00:00:29,753 --> 00:00:31,632
+Imagino de onde ele tirou isso.
+
+13
+00:00:33,792 --> 00:00:36,277
+Tudo bem, vamos lá, companheiro. Olhos para onde estamos indo.
+
+14
+00:00:36,277 --> 00:00:37,968
+Eu acho que nós estamos...
+
+15
+00:00:41,662 --> 00:00:43,284
+Bem-vindo a bordo, filho.
+
+16
+00:00:43,284 --> 00:00:44,768
+Skytrain A80.
+
+17
+00:00:44,768 --> 00:00:46,425
+Aeronave bimotora de fuselagem larga.
+
+18
+00:00:46,425 --> 00:00:48,255
+Mesma fuselagem e componentes de asa
+
+19
+00:00:48,255 --> 00:00:50,084
+como as variantes A90.
+
+20
+00:00:50,084 --> 00:00:51,504
+Sim, é isso mesmo.
+
+21
+00:00:51,529 --> 00:00:53,432
+Ah, Jem gosta de aviões.
+
+22
+00:00:53,432 --> 00:00:54,744
+Eu posso ver isso.
+
+23
+00:00:54,744 --> 00:00:56,642
+- Tenha um ótimo voo. - Você também.
+
+24
+00:00:58,265 --> 00:00:59,473
+- Ela é tão bonita. - Obrigada.
+
+25
+00:00:59,473 --> 00:01:01,233
+Sim, é uma ótima companhia.
+
+26
+00:01:01,233 --> 00:01:05,096
+E vamos conhecer nosso novo neto.
+
+27
+00:01:05,121 --> 00:01:06,135
+Nosso quinto.
+
+28
+00:01:06,135 --> 00:01:07,619
+Garota linda.
+
+29
+00:01:07,619 --> 00:01:10,277
+- Ele é. - Sim.
+
+30
+00:01:10,277 --> 00:01:11,623
+Esta é a Renee.
+
+31
+00:01:11,623 --> 00:01:12,840
+Quão cheios estamos?
+
+32
+00:01:12,865 --> 00:01:14,729
+Pegamos mais algumas dezenas em Los Angeles
+
+33
+00:01:14,754 --> 00:01:16,292
+Vamos fechá-lo então.
+
+34
+00:01:16,317 --> 00:01:17,767
+Entendido.
+
+35
+00:01:19,993 --> 00:01:21,270
+Espere! Espere!
+
+36
+00:01:21,771 --> 00:01:24,808
+Bem-vindo a bordo e aloha.
+
+37
+00:01:24,808 --> 00:01:27,328
+Não vamos para o Havaí. Vamos descer em Los Angeles
+
+38
+00:01:27,328 --> 00:01:29,468
+Bem, ainda assim, você conseguiu.
+
+39
+00:01:29,468 --> 00:01:31,470
+Deve ser seu dia de sorte.
+
+40
+00:01:33,127 --> 00:01:35,371
+Certo, é isso aí.
+
+41
+00:01:36,510 --> 00:01:38,167
+Você conseguiu a janela.
+
+42
+00:01:38,167 --> 00:01:41,446
+Hum, eu realmente não voo bem.
+
+43
+00:01:41,446 --> 00:01:45,484
+Não gosto de olhar para baixo a 40.000 pés.
+
+44
+00:01:45,484 --> 00:01:47,037
+Então não olhe para baixo.
+
+45
+00:01:47,693 --> 00:01:51,421
+- Ele está voltando a si. Cap? - Cap, você ainda está conosco?
+
+46
+00:01:51,421 --> 00:01:55,322
+Estou bem. Vamos voltar ao trabalho.
+
+47
+00:01:55,322 --> 00:01:58,014
+Você está bem, Cap. Tente não se levantar. Tente não se levantar, tudo bem?
+
+48
+00:01:58,014 --> 00:02:00,154
+Você fez a barba rente com uma lâmina desse tamanho.
+
+49
+00:02:00,154 --> 00:02:04,518
+Olho esquerdo normal. Pupila direita ainda lenta.
+
+50
+00:02:04,543 --> 00:02:07,610
+Possível concussão. Vamos levá-lo ao pronto-socorro.
+
+51
+00:02:07,610 --> 00:02:09,059
+Ele vai me matar.
+
+52
+00:02:09,059 --> 00:02:11,855
+Não, não, ele vai me demitir e depois vai me matar.
+
+53
+00:02:11,855 --> 00:02:14,120
+Por quê? Você salvou a vida dele.
+
+54
+00:02:14,145 --> 00:02:15,894
+Foi isso que eu fiz?
+
+55
+00:02:15,894 --> 00:02:17,689
+Sinceramente, eu realmente não sei
+
+56
+00:02:17,689 --> 00:02:19,622
+porque eu só queria bater no cara.
+
+57
+00:02:21,071 --> 00:02:24,282
+Ah, se você quiser, eu posso tentar polir isso para você.
+
+58
+00:02:24,282 --> 00:02:26,836
+- Acho que estamos bem. - Vamos, vamos.
+
+59
+00:02:29,356 --> 00:02:31,703
+P-pare, e-estamos bem.
+
+60
+00:02:31,703 --> 00:02:33,705
+- Entendi. - Sim, não se preocupe, Cap.
+
+61
+00:02:33,705 --> 00:02:36,225
+Eles estão levando você ao hospital só para fazer alguns exames de rotina.
+
+62
+00:02:36,225 --> 00:02:38,192
+- E uma mangueira de dez centímetros! - Entendido.
+
+63
+00:02:38,192 --> 00:02:39,918
+Tudo bem, vamos colocá-lo lá dentro.
+
+64
+00:02:48,582 --> 00:02:51,378
+Então acho que isso faz de você o capitão interino.
+
+65
+00:02:51,378 --> 00:02:52,979
+Alguma ordem, Capitão?
+
+66
+00:02:54,726 --> 00:02:56,176
+Tudo bem.
+
+67
+00:02:56,176 --> 00:03:00,663
+Como capitão interino enquanto Gerrard está incapacitado,
+
+68
+00:03:00,663 --> 00:03:03,700
+minha primeira tarefa é...
+
+69
+00:03:03,700 --> 00:03:05,944
+Uma festa dançante.
+
+70
+00:03:05,944 --> 00:03:07,117
+Vamos.
+
+71
+00:03:09,327 --> 00:03:11,915
+Da próxima vez que uma serra circular vier atrás de mim,
+
+72
+00:03:11,915 --> 00:03:14,608
+Espero que você esteja por perto.
+
+73
+00:03:19,247 --> 00:03:23,247
+- Sincronizado e corrigido por synck - - www.addic7ed.com -
+
+74
+00:03:24,825 --> 00:03:27,897
+Emmett Washington morreu vivendo seu propósito,
+
+75
+00:03:27,897 --> 00:03:31,590
+protegendo e servindo, cuidando de sua comunidade.
+
+76
+00:03:31,590 --> 00:03:34,110
+E é isso que ele gostaria que fizéssemos,
+
+77
+00:03:34,110 --> 00:03:37,458
+para cuidar uns dos outros neste momento terrível.
+
+78
+00:03:37,458 --> 00:03:41,428
+Para dizer algumas palavras de lembranças, Athena Carter,
+
+79
+00:03:41,428 --> 00:03:43,637
+Noiva de Emmett.
+
+80
+00:03:46,329 --> 00:03:47,986
+Obrigado.
+
+81
+00:03:52,991 --> 00:03:54,820
+Para Emmett...
+
+82
+00:03:55,821 --> 00:03:58,410
+ser policial não era apenas um trabalho...
+
+83
+00:04:00,032 --> 00:04:02,000
+era um chamado.
+
+84
+00:04:03,001 --> 00:04:05,624
+Cada dia de sua vida foi dedicado a esse chamado.
+
+85
+00:04:06,591 --> 00:04:10,629
+Emmett foi quem me inspirou a me tornar policial.
+
+86
+00:04:11,837 --> 00:04:14,806
+E por isso...
+
+87
+00:04:14,806 --> 00:04:16,808
+Sou eternamente grato.
+
+88
+00:04:18,499 --> 00:04:21,468
+Sou grata por Emmett ter entrado na minha vida.
+
+89
+00:04:22,469 --> 00:04:27,379
+Grato por seu amor e comprometimento.
+
+90
+00:04:28,509 --> 00:04:31,995
+Não apenas para mim, mas para a cidade de Los Angeles
+
+91
+00:04:31,995 --> 00:04:33,721
+e para este departamento.
+
+92
+00:04:35,378 --> 00:04:37,656
+A melhor coisa que podemos fazer para homenageá-lo
+
+93
+00:04:37,656 --> 00:04:39,658
+é continuar o trabalho.
+
+94
+00:04:41,384 --> 00:04:44,698
+Sempre honrarei Emmett.
+
+95
+00:04:50,704 --> 00:04:54,294
+E eu sempre o amarei.
+
+96
+00:04:55,985 --> 00:04:59,160
+Todas as unidades, liberem o ar para o tráfego prioritário.
+
+97
+00:05:01,370 --> 00:05:05,960
+Despacho chamando 237,
+
+98
+00:05:05,960 --> 00:05:08,342
+Oficial Washington.
+
+99
+00:05:08,342 --> 00:05:11,138
+Esta é a chamada final
+
+100
+00:05:11,138 --> 00:05:14,175
+para 237...
+
+101
+00:05:15,024 --> 00:05:18,199
+Oficial Emmett Washington.
+
+102
+00:05:18,559 --> 00:05:23,046
+O oficial Washington está com 10-7.
+
+103
+00:05:23,046 --> 00:05:27,913
+Obrigado pela sua dedicação, serviço e lealdade.
+
+104
+00:05:27,913 --> 00:05:30,088
+Você pode ficar tranquilo.
+
+105
+00:05:31,123 --> 00:05:33,367
+Temos o relógio daqui.
+
+106
+00:05:37,923 --> 00:05:40,063
+Fiquei pensando sobre isso.
+
+107
+00:05:40,063 --> 00:05:42,376
+Não vou aceitar o acordo.
+
+108
+00:05:42,376 --> 00:05:43,860
+O que?
+
+109
+00:05:45,137 --> 00:05:47,588
+Não vou aceitar o acordo de liberação antecipada.
+
+110
+00:05:50,557 --> 00:05:54,043
+Você me faz arrastar minha bunda até o Arizona
+
+111
+00:05:54,043 --> 00:05:56,784
+e agora você decidiu que não vai cooperar?
+
+112
+00:05:56,809 --> 00:05:59,082
+Eu vou cooperar.
+
+113
+00:05:59,082 --> 00:06:01,015
+Eu só estou...
+
+114
+00:06:01,015 --> 00:06:04,605
+Não vou aceitar o acordo. Não a menos que eu tenha sua benção.
+
+115
+00:06:05,951 --> 00:06:08,126
+Eu nem sei o que dizer sobre isso.
+
+116
+00:06:08,126 --> 00:06:10,404
+Você não precisa dizer nada.
+
+117
+00:06:17,549 --> 00:06:22,140
+Por que você não me diz por que homens de terno estão tentando te matar?
+
+118
+00:06:26,558 --> 00:06:29,872
+Você sabe quem é Maxwell Fulton?
+
+119
+00:06:29,872 --> 00:06:33,565
+Administrador financeiro de Beverly Hills e pedófilo de primeira.
+
+120
+00:06:34,566 --> 00:06:36,396
+Bem, desde alguns meses atrás,
+
+121
+00:06:36,396 --> 00:06:38,674
+Eu nunca tinha ouvido falar desse cara.
+
+122
+00:06:39,847 --> 00:06:42,609
+O Ministério Público dos EUA veio até mim com uma oferta.
+
+123
+00:06:42,609 --> 00:06:45,543
+Troque de prisão, aproxime-se do cara
+
+124
+00:06:45,543 --> 00:06:47,303
+e ver se ele confiaria em mim.
+
+125
+00:06:47,303 --> 00:06:50,444
+Conforme discutimos, o nome dele é Maxwell Fulton.
+
+126
+00:06:50,444 --> 00:06:52,237
+Estamos procurando nomes de pessoas que ele está protegendo
+
+127
+00:06:52,262 --> 00:06:54,310
+e pessoas que o protegem.
+
+128
+00:06:54,310 --> 00:06:55,622
+Bem,
+
+129
+00:06:55,622 --> 00:06:57,347
+conhecer Maxwell foi fácil o suficiente
+
+130
+00:06:57,347 --> 00:07:01,075
+porque todos os outros na prisão rejeitaram o cara
+
+131
+00:07:01,075 --> 00:07:02,974
+porque ele era um molestador de crianças
+
+132
+00:07:02,974 --> 00:07:06,564
+Eu fui o único que se abaixou o suficiente para falar com ele.
+
+133
+00:07:06,564 --> 00:07:07,979
+Delicioso.
+
+134
+00:07:07,979 --> 00:07:10,568
+Sim, ok, bem, de qualquer forma, eventualmente...
+
+135
+00:07:10,568 --> 00:07:12,466
+Maxwell e eu éramos assim.
+
+136
+00:07:12,466 --> 00:07:15,918
+E isso me deixou enjoado, muito.
+
+137
+00:07:15,918 --> 00:07:17,471
+Ele citou nomes?
+
+138
+00:07:17,471 --> 00:07:19,266
+Não no começo.
+
+139
+00:07:19,266 --> 00:07:22,683
+Depois que ele foi esfaqueado, ele se abriu um pouco.
+
+140
+00:07:22,683 --> 00:07:25,617
+A Irmandade tentou espancá-lo.
+
+141
+00:07:27,343 --> 00:07:30,864
+E eles fizeram um bom trabalho também, exceto que Maxwell sobreviveu.
+
+142
+00:07:30,864 --> 00:07:32,141
+Ajuda!
+
+143
+00:07:32,141 --> 00:07:34,281
+Seis semanas na enfermaria...
+
+144
+00:07:34,281 --> 00:07:35,696
+Acorde. Acorde.
+
+145
+00:07:35,696 --> 00:07:36,939
+Quando ele voltou para mim,
+
+146
+00:07:36,939 --> 00:07:38,527
+ele era um livro aberto.
+
+147
+00:07:38,527 --> 00:07:41,599
+Tenho que te contar uma coisa, algo que ninguém mais sabe...
+
+148
+00:07:41,599 --> 00:07:45,879
+caso venham atrás de mim novamente... onde fica minha biblioteca.
+
+149
+00:07:45,879 --> 00:07:47,363
+Todos que já filmei,
+
+150
+00:07:47,363 --> 00:07:49,952
+todo mundo que eu arrumo uma garota,
+
+151
+00:07:49,952 --> 00:07:51,229
+Coloquei tudo em um só lugar.
+
+152
+00:07:51,229 --> 00:07:54,128
+Maxwell disse que havia pessoas do lado de fora
+
+153
+00:07:54,128 --> 00:07:56,510
+que faria e poderia fazer qualquer coisa
+
+154
+00:07:56,510 --> 00:07:59,375
+para colocar as mãos no que ele chamava de "sua biblioteca".
+
+155
+00:07:59,375 --> 00:08:01,653
+Então ele te contou onde colocou tudo, hein?
+
+156
+00:08:01,653 --> 00:08:05,933
+Se eu te disser, o alvo estará nas suas costas.
+
+157
+00:08:13,872 --> 00:08:16,634
+Certo. Fique firme.
+
+158
+00:08:16,634 --> 00:08:21,020
+Vou falar com o capitão e garantir que o LAPD esteja no portão para nos receber.
+
+159
+00:08:22,122 --> 00:08:24,158
+Senhora, estamos apenas começando a descer.
+
+160
+00:08:24,158 --> 00:08:25,574
+Se você pudesse retomar seu assento.
+
+161
+00:08:25,574 --> 00:08:27,576
+Preciso falar com o piloto. É urgente.
+
+162
+00:08:27,576 --> 00:08:29,267
+Não posso deixar você entrar aí.
+
+163
+00:08:29,267 --> 00:08:30,786
+O telefone está bom.
+
+164
+00:08:33,616 --> 00:08:34,997
+Lista de verificação concluída.
+
+165
+00:08:34,997 --> 00:08:37,586
+Continue descendo. Estou 10-1.
+
+166
+00:08:39,242 --> 00:08:40,554
+Este é o Capitão Dominguez.
+
+167
+00:08:40,554 --> 00:08:43,281
+Capitão, tem um sargento da polícia aqui que gostaria de falar com você.
+
+168
+00:08:43,281 --> 00:08:45,248
+Tudo bem. Eu ia entrar de qualquer jeito.
+
+169
+00:08:45,248 --> 00:08:46,664
+Curva à esquerda, 30 graus...
+
+170
+00:08:46,664 --> 00:08:48,251
+Tráfego. Tráfego. Subida. Subida.
+
+171
+00:08:48,251 --> 00:08:49,563
+- Sobe! - Sobe!
+
+172
+00:08:49,563 --> 00:08:51,047
+Tráfego. Subida. Subida.
+
+173
+00:08:56,432 --> 00:08:58,434
+Tráfego. Tráfego. Subida. Subida.
+
+174
+00:08:59,953 --> 00:09:03,094
+Tráfego. Tráfego. Subida. Subida.
+
+175
+00:09:45,170 --> 00:09:47,069
+Perigo. Reduza a altitude.
+
+176
+00:09:47,069 --> 00:09:49,589
+Olá! Olá!
+
+177
+00:09:50,351 --> 00:09:51,521
+Perigo.
+
+178
+00:09:51,521 --> 00:09:52,730
+Ei!
+
+179
+00:09:52,730 --> 00:09:53,731
+Reduza a altitude.
+
+180
+00:09:53,731 --> 00:09:55,905
+Perigo. Reduza a altitude.
+
+181
+00:09:55,905 --> 00:09:57,769
+Reduza a altitude.
+
+182
+00:09:57,769 --> 00:10:00,151
+O que eu posso fazer? O que eu posso fazer?
+
+183
+00:10:00,151 --> 00:10:01,739
+Reduza a altitude.
+
+184
+00:10:01,739 --> 00:10:03,154
+Perigo. Reduza a altitude.
+
+185
+00:10:03,154 --> 00:10:04,396
+OK.
+
+186
+00:10:30,526 --> 00:10:31,803
+Primeiro de maio! Primeiro de maio!
+
+187
+00:10:31,803 --> 00:10:33,667
+Emergência, emergência!
+
+188
+00:10:42,225 --> 00:10:44,301
+_
+
+189
+00:10:49,821 --> 00:10:52,203
+Keystar 63, você lê? Câmbio.
+
+190
+00:10:52,203 --> 00:10:53,722
+895-Alpha, você está ouvindo?
+
+191
+00:10:53,722 --> 00:10:55,551
+Eles estavam em um padrão de pouso e subiram de repente,
+
+192
+00:10:55,551 --> 00:10:58,036
+então nivelado para menos de 10.000 pés. Agora eles não estão respondendo.
+
+193
+00:10:58,036 --> 00:11:00,729
+Acabei de perder o 895-Alpha. Aeronave leve.
+
+194
+00:11:00,729 --> 00:11:03,732
+Ele disse algo sobre abelhas e depois desapareceu do radar.
+
+195
+00:11:03,732 --> 00:11:06,182
+Pode repetir isso? Estou com um pouco de dificuldade para ouvir você, senhora.
+
+196
+00:11:06,182 --> 00:11:09,392
+Talvez seja porque a janela está aberta!
+
+197
+00:11:09,392 --> 00:11:11,222
+- Você está dirigindo? - Não.
+
+198
+00:11:11,222 --> 00:11:14,570
+Vôo.
+
+199
+00:11:14,570 --> 00:11:17,573
+Voo 63 da Keystar saindo de Phoenix.
+
+200
+00:11:17,573 --> 00:11:18,919
+Houve um acidente!
+
+201
+00:11:18,919 --> 00:11:20,921
+Uma colisão no ar.
+
+202
+00:11:20,921 --> 00:11:22,889
+Nosso rádio aqui está quebrado.
+
+203
+00:11:22,889 --> 00:11:24,580
+Você pode me dizer seu nome?
+
+204
+00:11:24,580 --> 00:11:26,582
+Atena Grant.
+
+205
+00:11:26,582 --> 00:11:29,550
+Preciso de tráfego aéreo.
+
+206
+00:11:29,550 --> 00:11:32,415
+Tráfego aéreo, tenho o sargento do LAPD
+
+207
+00:11:32,415 --> 00:11:34,245
+Athena Grant, passageira do Keystar
+
+208
+00:11:34,245 --> 00:11:37,110
+Voo 63, passando a ligação para você agora.
+
+209
+00:11:38,456 --> 00:11:42,309
+Voo 63, aqui é Nick Johnson, Controle de Tráfego Aéreo.
+
+210
+00:11:42,874 --> 00:11:44,634
+Você está aí, Voo 63?
+
+211
+00:11:44,634 --> 00:11:46,706
+Mais uma vez, aqui é o Controle de Tráfego Aéreo, Nick Johnson.
+
+212
+00:11:46,706 --> 00:11:48,431
+Nick, estamos com problemas aqui em cima.
+
+213
+00:11:48,431 --> 00:11:49,847
+Nós batemos em alguma coisa.
+
+214
+00:11:49,847 --> 00:11:51,538
+Nós sabemos, um avião leve.
+
+215
+00:11:51,538 --> 00:11:53,022
+Sim, não é leve o suficiente.
+
+216
+00:11:53,022 --> 00:11:54,610
+Nosso capitão está desaparecido,
+
+217
+00:11:54,610 --> 00:11:56,129
+Eu estou supondo...
+
+218
+00:11:56,129 --> 00:11:58,614
+sugado pelo buraco que é...
+
+219
+00:11:58,614 --> 00:12:00,271
+que está neste cockpit.
+
+220
+00:12:00,271 --> 00:12:04,033
+Tem um assento retrátil nele agora.
+
+221
+00:12:04,033 --> 00:12:05,621
+Quem estabilizou a aeronave?
+
+222
+00:12:05,621 --> 00:12:07,209
+Nosso copiloto.
+
+223
+00:12:07,209 --> 00:12:09,107
+Ele está vivo, mas inconsciente.
+
+224
+00:12:09,107 --> 00:12:10,730
+Ele está em péssimo estado.
+
+225
+00:12:10,730 --> 00:12:11,765
+Tudo bem.
+
+226
+00:12:11,765 --> 00:12:13,974
+Preciso que você olhe no painel de instrumentos,
+
+227
+00:12:13,974 --> 00:12:15,286
+logo abaixo do para-brisa.
+
+228
+00:12:15,286 --> 00:12:17,322
+Você vê um botão que diz AP?
+
+229
+00:12:17,322 --> 00:12:19,877
+Uh... uh...
+
+230
+00:12:19,877 --> 00:12:21,948
+Sim, eu concordo.
+
+231
+00:12:21,948 --> 00:12:24,122
+- Está aceso? - Sim.
+
+232
+00:12:24,122 --> 00:12:27,470
+Ótimo. Seu piloto automático está ativado.
+
+233
+00:12:27,470 --> 00:12:31,164
+Sargento Grant, aqui é Amy Olson, Supervisora ​​de Tráfego Aéreo.
+
+234
+00:12:31,164 --> 00:12:33,304
+Estamos limpando o espaço aéreo ao seu redor,
+
+235
+00:12:33,304 --> 00:12:36,272
+então não há nada do lado de fora da sua janela com que você precise se preocupar.
+
+236
+00:12:36,272 --> 00:12:37,964
+A aeronave permanecerá no céu.
+
+237
+00:12:37,964 --> 00:12:39,828
+Ah, isso é encorajador.
+
+238
+00:12:39,828 --> 00:12:42,485
+Por enquanto, fique tranquilo e mantenha seu telefone por perto.
+
+239
+00:12:42,485 --> 00:12:43,797
+Entraremos em contato com você neste número
+
+240
+00:12:43,797 --> 00:12:45,350
+o mais rápido que pudermos com um plano de jogo.
+
+241
+00:12:49,182 --> 00:12:50,666
+Estamos rolando.
+
+242
+00:12:50,666 --> 00:12:52,599
+Desliguem seus celulares, por favor.
+
+243
+00:12:54,774 --> 00:12:55,844
+Ação!
+
+244
+00:12:55,844 --> 00:12:58,536
+Cap, é melhor você dar uma olhada aqui.
+
+245
+00:12:58,536 --> 00:13:01,677
+Me ajude, me ajude. Estou aqui.
+
+246
+00:13:01,677 --> 00:13:02,985
+Os proprietários disseram que
+
+247
+00:13:03,009 --> 00:13:04,266
+Acabei de renovar o piso do banheiro ontem.
+
+248
+00:13:04,266 --> 00:13:06,130
+E ninguém mais viu o encanador desde então.
+
+249
+00:13:06,130 --> 00:13:10,030
+Hmm. Certo, pessoal, afastem-se.
+
+250
+00:13:10,030 --> 00:13:13,793
+Vou fazer um Roto-Rooter nesse cara do jeito antigo.
+
+251
+00:13:13,793 --> 00:13:15,104
+Uau, uau, uau! Podemos cortar?
+
+252
+00:13:15,104 --> 00:13:16,519
+E agora?
+
+253
+00:13:16,519 --> 00:13:19,350
+Uh, me desculpem, pessoal. É só que... primeiro,
+
+254
+00:13:19,350 --> 00:13:20,938
+você nunca balançaria essa coisa nem perto
+
+255
+00:13:20,938 --> 00:13:22,871
+onde a vítima pode estar porque você pode machucá-la.
+
+256
+00:13:22,871 --> 00:13:24,942
+- Quer dizer, você poderia até matá-lo. - Ei, consultor de tecnologia.
+
+257
+00:13:24,942 --> 00:13:27,047
+- Sim. - É um programa de TV, não uma realidade.
+
+258
+00:13:28,083 --> 00:13:31,362
+Entendido. Então, se é um programa de TV e você tem que usar uma marreta,
+
+259
+00:13:31,362 --> 00:13:32,742
+você quer lembrar que está batendo
+
+260
+00:13:32,742 --> 00:13:33,882
+- no ladrilho. - Sim.
+
+261
+00:13:33,882 --> 00:13:35,642
+E cacos afiados de porcelana
+
+262
+00:13:35,642 --> 00:13:37,851
+poderia voar de volta para você, então você abaixaria suas viseiras
+
+263
+00:13:37,851 --> 00:13:39,404
+ou você pode voltar para casa cego.
+
+264
+00:13:39,404 --> 00:13:41,199
+Eles não estão abaixando suas viseiras,
+
+265
+00:13:41,199 --> 00:13:43,753
+porque então o público não verá seus rostos.
+
+266
+00:13:43,753 --> 00:13:45,307
+E isso não é porcelana de verdade.
+
+267
+00:13:45,307 --> 00:13:47,531
+É gesso. Não é real.
+
+268
+00:13:47,556 --> 00:13:50,795
+Mas queremos que pareça real, não é, Marcus?
+
+269
+00:13:53,625 --> 00:13:55,420
+Preciso do meu roteiro.
+
+270
+00:13:56,905 --> 00:13:59,217
+- Acho que talvez esse cara me odeie. - Não se preocupe com isso.
+
+271
+00:13:59,217 --> 00:14:02,255
+Ele irá embora até o fim da semana, para outro show, mas você...
+
+272
+00:14:02,255 --> 00:14:03,601
+você ainda estará aqui.
+
+273
+00:14:10,263 --> 00:14:11,540
+Acho que isso é bom.
+
+274
+00:14:12,299 --> 00:14:14,094
+Parece que o sangramento parou.
+
+275
+00:14:14,094 --> 00:14:16,165
+A pressão arterial está se mantendo.
+
+276
+00:14:16,165 --> 00:14:19,272
+- 95/65. - Bem, ele está vivo.
+
+277
+00:14:19,272 --> 00:14:20,860
+Agora preciso dele vivo e acordado.
+
+278
+00:14:22,275 --> 00:14:25,105
+Temos muitas pessoas feridas aqui.
+
+279
+00:14:25,105 --> 00:14:26,555
+E outro problema...
+
+280
+00:14:32,216 --> 00:14:33,907
+Isso não é bom.
+
+281
+00:14:33,907 --> 00:14:36,910
+Não. Não é.
+
+282
+00:14:38,981 --> 00:14:40,293
+Tudo bem.
+
+283
+00:14:40,293 --> 00:14:43,123
+Todas essas pessoas aqui atrás estão sendo promovidas.
+
+284
+00:14:43,123 --> 00:14:46,264
+Mova todos para o mais longe possível do rasgo.
+
+285
+00:14:46,264 --> 00:14:47,645
+Certo. Vamos lá, pessoal.
+
+286
+00:14:47,645 --> 00:14:49,440
+Vai, vai, vai, vai.
+
+287
+00:14:49,440 --> 00:14:51,718
+Sobe. Vamos. Vamos.
+
+288
+00:14:51,718 --> 00:14:54,272
+Vamos lá. Vamos lá. Vamos lá, vamos lá, vamos lá, vamos lá.
+
+289
+00:14:55,653 --> 00:14:57,275
+Cuidado com a cabeça.
+
+290
+00:15:00,451 --> 00:15:03,212
+Se eu pudesse ter a atenção de todos.
+
+291
+00:15:03,212 --> 00:15:07,768
+Meu nome é Athena Grant, sou sargento do LAPD.
+
+292
+00:15:07,768 --> 00:15:10,806
+Tenho mantido contato com pessoas no local.
+
+293
+00:15:10,806 --> 00:15:13,222
+Eles estão cientes da nossa situação
+
+294
+00:15:13,222 --> 00:15:15,121
+e estão trabalhando em uma solução.
+
+295
+00:15:15,121 --> 00:15:17,123
+Qual é a nossa situação?
+
+296
+00:15:17,123 --> 00:15:18,676
+O que é que foi isso?
+
+297
+00:15:19,849 --> 00:15:22,852
+Nosso avião se envolveu em uma colisão no ar.
+
+298
+00:15:22,852 --> 00:15:26,856
+Mas me disseram que não corremos perigo de afundar.
+
+299
+00:15:26,856 --> 00:15:30,446
+Eu sei que todos vocês estão com medo.
+
+300
+00:15:31,378 --> 00:15:34,002
+Não vou dizer para você não ser, porque eu também sou.
+
+301
+00:15:35,175 --> 00:15:37,764
+Mas o importante agora é que nos ajudemos
+
+302
+00:15:37,764 --> 00:15:39,939
+e não entre em pânico.
+
+303
+00:15:39,939 --> 00:15:43,701
+Agora, quem tem serviço de celular?
+
+304
+00:15:44,702 --> 00:15:47,498
+Vocês acham estranho não termos notícias do hospital?
+
+305
+00:15:47,498 --> 00:15:51,847
+Não, o Presbyterian sempre se atrasa a essa hora do dia.
+
+306
+00:15:51,847 --> 00:15:53,987
+Vou te dizer o que é estranho.
+
+307
+00:15:53,987 --> 00:15:57,991
+Gerrard não está sentado naquela cadeira gritando conosco enquanto comemos salada de ovo.
+
+308
+00:16:04,722 --> 00:16:06,275
+- Olá, Maddie. - Olá.
+
+309
+00:16:06,275 --> 00:16:08,864
+Vamos tirar o 118 de rotação pelo resto do turno.
+
+310
+00:16:08,864 --> 00:16:10,452
+É sobre aquela coisa com Gerrard?
+
+311
+00:16:10,452 --> 00:16:12,350
+- Porque Hen cuida disso. - Não.
+
+312
+00:16:12,350 --> 00:16:14,111
+Tenho algumas pessoas na linha que precisam falar com você.
+
+313
+00:16:14,111 --> 00:16:16,009
+- Para mim? - Para todos vocês.
+
+314
+00:16:16,009 --> 00:16:17,528
+Coloque-me no viva-voz e eu explico.
+
+315
+00:16:18,529 --> 00:16:19,530
+OK.
+
+316
+00:16:19,530 --> 00:16:22,360
+Olá, pessoal, aqui é a Maddie.
+
+317
+00:16:22,360 --> 00:16:24,880
+Olá a todos. Preciso da vossa ajuda
+
+318
+00:16:24,880 --> 00:16:26,882
+com múltiplas vítimas em uma colisão no ar.
+
+319
+00:16:26,882 --> 00:16:28,918
+Não estamos nem perto do aeroporto.
+
+320
+00:16:28,918 --> 00:16:30,713
+Nem eles. Eles ainda estão no ar.
+
+321
+00:16:30,713 --> 00:16:32,992
+O ATC está trabalhando para derrubá-los.
+
+322
+00:16:32,992 --> 00:16:34,821
+Por enquanto, vou repassá-los para cada um de vocês
+
+323
+00:16:34,821 --> 00:16:36,236
+individualmente para triagem.
+
+324
+00:16:36,236 --> 00:16:37,824
+Por que nós?
+
+325
+00:16:37,824 --> 00:16:39,563
+Porque você é a melhor esperança deles.
+
+326
+00:16:40,689 --> 00:16:42,587
+E porque Atena está naquele avião.
+
+327
+00:16:49,732 --> 00:16:51,320
+Você ligou para Bobby Nash.
+
+328
+00:16:51,320 --> 00:16:53,081
+Não estou disponível para atender sua ligação neste momento.
+
+329
+00:16:53,081 --> 00:16:54,599
+Por favor, deixe uma mensagem.
+
+330
+00:16:57,775 --> 00:16:58,983
+Bobby...
+
+331
+00:17:05,714 --> 00:17:07,440
+Eu te amo bebê.
+
+332
+00:17:12,410 --> 00:17:14,688
+Por favor, diga-me que você elaborou um plano.
+
+333
+00:17:14,688 --> 00:17:16,897
+Tenho algumas pessoas sofrendo aqui.
+
+334
+00:17:16,897 --> 00:17:18,451
+Achamos que sim, sargento.
+
+335
+00:17:18,451 --> 00:17:21,454
+Certo. Eu adoraria ouvir isso.
+
+336
+00:17:21,454 --> 00:17:23,732
+Você vai pousar o avião.
+
+337
+00:17:23,732 --> 00:17:27,046
+Vou pousar o avião?
+
+338
+00:17:27,046 --> 00:17:29,220
+Esse não é um bom plano.
+
+339
+00:17:29,220 --> 00:17:31,983
+Entramos em contato com um instrutor de voo. Ele está vindo para cá.
+
+340
+00:17:32,008 --> 00:17:33,086
+Ele vai orientar você.
+
+341
+00:17:33,086 --> 00:17:34,467
+Me orientou?!
+
+342
+00:17:34,467 --> 00:17:36,262
+Na verdade, ele já fez isso muitas vezes.
+
+343
+00:17:36,262 --> 00:17:37,539
+Quando?
+
+344
+00:17:37,539 --> 00:17:40,300
+Com alunos. Em um simulador de voo.
+
+345
+00:17:40,300 --> 00:17:43,062
+É essencialmente a mesma coisa.
+
+346
+00:17:43,062 --> 00:17:44,649
+Exceto em um simulador,
+
+347
+00:17:44,649 --> 00:17:46,306
+quando você comete um erro, você tem outra chance.
+
+348
+00:17:46,306 --> 00:17:49,102
+Tem gente neste avião!
+
+349
+00:17:49,102 --> 00:17:51,829
+E você vai levá-los todos para casa em segurança.
+
+350
+00:17:53,037 --> 00:17:55,246
+Sabe, há outra coisa que você deveria saber.
+
+351
+00:17:55,246 --> 00:17:58,077
+Há um buraco no avião. Mais um.
+
+352
+00:17:58,077 --> 00:18:01,597
+Atrás. Um pedaço do avião que nos atingiu
+
+353
+00:18:01,597 --> 00:18:04,152
+está atravessando o telhado.
+
+354
+00:18:05,498 --> 00:18:08,156
+Você deve afastar as pessoas disso, se possível.
+
+355
+00:18:08,156 --> 00:18:10,813
+- Já fiz. - Ótimo.
+
+356
+00:18:10,813 --> 00:18:13,161
+Então você-você deve ficar bem.
+
+357
+00:18:13,161 --> 00:18:16,233
+Devemos evacuar o aeroporto?
+
+358
+00:18:16,233 --> 00:18:17,510
+Talvez.
+
+359
+00:18:22,480 --> 00:18:24,033
+Não, não! Você me escuta.
+
+360
+00:18:24,033 --> 00:18:26,933
+Você se aproxima dela novamente, e eu quero dizer até mesmo o mesmo estado,
+
+361
+00:18:26,933 --> 00:18:29,970
+se você olhar na direção dela, eu saberei.
+
+362
+00:18:29,970 --> 00:18:32,180
+E da próxima vez que você baixar a guarda
+
+363
+00:18:32,180 --> 00:18:33,802
+só por um momento,
+
+364
+00:18:33,802 --> 00:18:36,743
+só saiba que vou aproveitar esse momento para acabar com seu sangue,
+
+365
+00:18:36,768 --> 00:18:38,908
+vida patética...
+
+366
+00:18:39,359 --> 00:18:40,671
+Olá, Bobby, amigo.
+
+367
+00:18:40,671 --> 00:18:42,604
+Sandy, Sandy, preciso te ligar de volta,
+
+368
+00:18:42,604 --> 00:18:45,331
+querida, sim. Alguém, uh, acabou de aparecer.
+
+369
+00:18:45,331 --> 00:18:47,333
+Tudo bem, querida. Tchau. Tchau.
+
+370
+00:18:47,333 --> 00:18:49,741
+- Você está bem? Certo. - Sim, sim, sim. Eu estava apenas, uh...
+
+371
+00:18:49,766 --> 00:18:51,337
+- Fazendo uma cena? - Sim, sim, sim.
+
+372
+00:18:51,337 --> 00:18:53,270
+- Mas não para isso. Sente-se. - Sim. Tudo bem.
+
+373
+00:18:53,270 --> 00:18:55,479
+Não para isso. Estive ensaiando para uma peça.
+
+374
+00:18:55,479 --> 00:18:56,997
+- Certo. - Sim, eu escrevi.
+
+375
+00:18:56,997 --> 00:18:59,172
+Uh, eu coescrevi. Esse foi meu parceiro de escrita.
+
+376
+00:18:59,172 --> 00:19:01,864
+Você já viu o filme Platoon?
+
+377
+00:19:01,864 --> 00:19:03,038
+Pelotão?
+
+378
+00:19:03,038 --> 00:19:04,522
+Isso é com, uh, Wilford Brimley
+
+379
+00:19:04,522 --> 00:19:06,869
+no centro de aposentadoria e os alienígenas o levam embora?
+
+380
+00:19:06,869 --> 00:19:08,354
+Esse é o Cocoon. O Platoon...
+
+381
+00:19:08,354 --> 00:19:09,872
+Vietnã. Oliver Stone. Sim.
+
+382
+00:19:09,872 --> 00:19:11,184
+Eu lembro, eu só estava fazendo uma piada.
+
+383
+00:19:11,184 --> 00:19:14,463
+Ah, o tipo de ironia séria e já vista de tudo.
+
+384
+00:19:14,463 --> 00:19:17,915
+Sim. Sim, vou usar isso.
+
+385
+00:19:17,915 --> 00:19:19,296
+Então, Pelotão?
+
+386
+00:19:19,296 --> 00:19:20,400
+De qualquer forma, sim. Então, uh...
+
+387
+00:19:20,400 --> 00:19:22,644
+Antes do elenco ir para as Filipinas
+
+388
+00:19:22,644 --> 00:19:24,715
+- para filmar o filme, certo? - Certo.
+
+389
+00:19:24,715 --> 00:19:26,337
+- Charlie Sheen. - Sim.
+
+390
+00:19:26,337 --> 00:19:27,580
+- Willem Dafoe. - Certo.
+
+391
+00:19:27,580 --> 00:19:29,237
+E, uh, sim, um Johnny Depp muito jovem.
+
+392
+00:19:29,237 --> 00:19:31,031
+- Ah, sim. Depp. - Bem...
+
+393
+00:19:31,031 --> 00:19:35,070
+Todos eles trabalharam com um sargento instrutor de verdade...
+
+394
+00:19:35,070 --> 00:19:37,348
+- Certo. Sim. - Certo? Por duas ou três semanas.
+
+395
+00:19:37,348 --> 00:19:40,109
+E isso realmente os ajudou a sentir como
+
+396
+00:19:40,109 --> 00:19:41,904
+como é estar na selva.
+
+397
+00:19:41,904 --> 00:19:43,596
+- Certo, certo. Sim. - Então realmente, realmente ajudou
+
+398
+00:19:43,596 --> 00:19:45,011
+com sua performance e tudo mais.
+
+399
+00:19:45,011 --> 00:19:46,323
+Sim.
+
+400
+00:19:46,323 --> 00:19:48,221
+Ah, então você quer fazer isso, mas com combate a incêndios?
+
+401
+00:19:48,221 --> 00:19:50,258
+- Sim, exatamente. Exatamente. - Sim.
+
+402
+00:19:50,258 --> 00:19:52,570
+Um fim de semana nas montanhas, só os homens.
+
+403
+00:19:52,570 --> 00:19:54,572
+Sabe, ou poderíamos fazer isso na minha casa em Malibu.
+
+404
+00:19:54,572 --> 00:19:56,781
+Uh, mas sim, de qualquer forma, você pode ser
+
+405
+00:19:56,781 --> 00:19:58,542
+o, uh, sargento instrutor e eu não sei, tipo,
+
+406
+00:19:58,542 --> 00:20:00,233
+repreenda-nos o quanto quiser.
+
+407
+00:20:00,233 --> 00:20:01,234
+Bom, eu adoro repreender as pessoas.
+
+408
+00:20:03,719 --> 00:20:05,549
+Isso é nojento!
+
+409
+00:20:07,896 --> 00:20:09,346
+Vou pensar sobre isso.
+
+410
+00:20:09,346 --> 00:20:11,693
+Você leva seu tempo, está tudo bem. Sim, sim, sim, você pensa sobre isso.
+
+411
+00:20:11,693 --> 00:20:14,247
+- Vou pensar nisso. Certo. - Sim, sim. Incrível.
+
+412
+00:20:14,247 --> 00:20:15,973
+Oh, oh-oh. Bobby, Bobby, Bobby.
+
+413
+00:20:15,973 --> 00:20:17,354
+Sim, sim, só mais uma ideia, tudo bem?
+
+414
+00:20:17,354 --> 00:20:20,115
+Acho que meu personagem deveria usar uma frase de efeito.
+
+415
+00:20:20,115 --> 00:20:21,772
+- Tudo bem? Então você pode imaginar... - Sim.
+
+416
+00:20:21,772 --> 00:20:23,049
+Todos os sinos estão tocando,
+
+417
+00:20:23,049 --> 00:20:24,602
+estamos correndo para o nosso caminhão de bombeiros e tudo,
+
+418
+00:20:24,602 --> 00:20:27,260
+e então eu fico ali e digo algo como,
+
+419
+00:20:27,260 --> 00:20:30,125
+"Vamos montar, rapazes."
+
+420
+00:20:30,125 --> 00:20:32,389
+- Sim. - O que você achou? Você gostou?
+
+421
+00:20:32,414 --> 00:20:33,864
+Tem um verdadeiro sabor ocidental.
+
+422
+00:20:33,889 --> 00:20:36,132
+Meu Deus, foi exatamente isso que pensei.
+
+423
+00:20:36,821 --> 00:20:37,960
+Vou tentar.
+
+424
+00:20:37,960 --> 00:20:39,272
+Tudo bem, estamos de volta.
+
+425
+00:20:39,272 --> 00:20:41,136
+Uh...
+
+426
+00:20:41,136 --> 00:20:42,482
+Bobby Nash: O que é isso?
+
+427
+00:20:42,482 --> 00:20:44,415
+Ele é o consultor técnico do seu programa.
+
+428
+00:20:44,415 --> 00:20:46,141
+Não me importa se você está rolando, ok?
+
+429
+00:20:46,141 --> 00:20:48,316
+É uma emergência. São várias emergências.
+
+430
+00:20:48,316 --> 00:20:50,801
+Certo, basta colocar gelo na perna, isso vai reduzir o inchaço.
+
+431
+00:20:50,801 --> 00:20:52,147
+Preciso que você tenha certeza
+
+432
+00:20:52,147 --> 00:20:54,805
+que não há nada obstruindo suas vias aéreas.
+
+433
+00:20:54,805 --> 00:20:56,600
+Ela bateu no teto da cabine?
+
+434
+00:20:56,600 --> 00:20:57,601
+Ela está falando?
+
+435
+00:20:57,601 --> 00:20:59,292
+Mais ou menos.
+
+436
+00:20:59,292 --> 00:21:02,330
+Respire, Donna. Estamos aqui com você, querida.
+
+437
+00:21:02,330 --> 00:21:04,021
+Chaminé, acho que a perna dela está quebrada.
+
+438
+00:21:04,021 --> 00:21:05,298
+E por que você pensaria isso?
+
+439
+00:21:05,298 --> 00:21:07,956
+Bem, para começar, está torto!
+
+440
+00:21:09,302 --> 00:21:12,581
+Certo. Certo. Você veio com bagagem de mão hoje?
+
+441
+00:21:12,581 --> 00:21:14,307
+Não, estou viajando com pouca bagagem.
+
+442
+00:21:14,307 --> 00:21:15,446
+Então encontre um.
+
+443
+00:21:15,446 --> 00:21:17,008
+Estamos fazendo uma tala.
+
+444
+00:21:18,035 --> 00:21:19,450
+Ei!
+
+445
+00:21:19,450 --> 00:21:21,625
+Alguém tem bagagem de mão?
+
+446
+00:21:21,625 --> 00:21:23,937
+Preciso fazer uma tala.
+
+447
+00:21:23,937 --> 00:21:25,318
+Eu tenho algo.
+
+448
+00:21:25,318 --> 00:21:26,871
+Como está a pressão arterial dele?
+
+449
+00:21:26,871 --> 00:21:28,425
+Participação da BP.
+
+450
+00:21:28,425 --> 00:21:29,943
+Mas ele ainda está inconsciente.
+
+451
+00:21:29,943 --> 00:21:31,186
+E eu acho que tenho
+
+452
+00:21:31,186 --> 00:21:32,670
+- alguns sais aromáticos. - Não!
+
+453
+00:21:32,670 --> 00:21:35,616
+Absolutamente não. Ele está estável, continue monitorando-o.
+
+454
+00:21:35,641 --> 00:21:37,330
+Tia, descreva-me a respiração dele.
+
+455
+00:21:37,330 --> 00:21:39,850
+É como respirações rápidas e curtas.
+
+456
+00:21:39,850 --> 00:21:42,197
+Ele começou a surtar quando as máscaras de oxigênio
+
+457
+00:21:42,197 --> 00:21:44,026
+- desceu. - Certo.
+
+458
+00:21:44,026 --> 00:21:45,373
+Acho que isso pode ser um ataque de pânico.
+
+459
+00:21:45,373 --> 00:21:48,514
+Nós vamos apenas treiná-lo para respirar, ok?
+
+460
+00:21:48,514 --> 00:21:49,549
+Ei.
+
+461
+00:21:49,549 --> 00:21:51,344
+Te peguei.
+
+462
+00:21:51,344 --> 00:21:53,064
+Vamos respirar juntos, ok?
+
+463
+00:21:53,089 --> 00:21:54,987
+Sim, tudo bem.
+
+464
+00:21:56,694 --> 00:21:59,041
+Aqui! Aqui! Aqui.
+
+465
+00:21:59,041 --> 00:22:01,320
+Ok, entendi.
+
+466
+00:22:01,320 --> 00:22:03,736
+Ok, coloque a alça embaixo da perna dela
+
+467
+00:22:03,736 --> 00:22:05,013
+e encontre algo para apoiá-lo.
+
+468
+00:22:05,013 --> 00:22:06,428
+Me dê uma revista!
+
+469
+00:22:15,195 --> 00:22:17,370
+- Sargento Grant. - Sim?
+
+470
+00:22:17,370 --> 00:22:18,544
+O instrutor de voo está aqui.
+
+471
+00:22:18,544 --> 00:22:19,752
+- Certo. - Sargento,
+
+472
+00:22:19,752 --> 00:22:21,374
+meu nome é Jimmy Hadley,
+
+473
+00:22:21,374 --> 00:22:22,755
+Sou seu instrutor de voo.
+
+474
+00:22:22,755 --> 00:22:24,377
+Eu formei centenas de alunos
+
+475
+00:22:24,377 --> 00:22:27,553
+da minha escola de aviação, de atletas profissionais até avós.
+
+476
+00:22:27,553 --> 00:22:31,246
+Estou muito familiarizado com a aeronave em que você está.
+
+477
+00:22:31,246 --> 00:22:33,075
+Nós vamos nos sair muito bem.
+
+478
+00:22:33,075 --> 00:22:36,389
+- Estão todos afivelados? - Sim.
+
+479
+00:22:36,389 --> 00:22:38,686
+Certo, vou deixar você saber o que faremos aqui.
+
+480
+00:22:38,711 --> 00:22:41,774
+Você queimou bastante combustível atravessando o oceano.
+
+481
+00:22:41,774 --> 00:22:44,708
+- Isso é um problema. - Não, na verdade, isso é bom.
+
+482
+00:22:44,708 --> 00:22:47,055
+Quanto mais leve você for, mais fácil será pegá-la.
+
+483
+00:22:47,055 --> 00:22:49,366
+Então, vou trazê-lo de volta aqui em um grande arco
+
+484
+00:22:49,391 --> 00:22:50,655
+e te dar muito tempo
+
+485
+00:22:50,680 --> 00:22:53,268
+para facilitar o manuseio dela na sua corrida até o aeroporto.
+
+486
+00:22:53,268 --> 00:22:55,270
+Mas...
+
+487
+00:22:55,270 --> 00:22:57,893
+a primeira coisa que temos que fazer é virar você.
+
+488
+00:22:57,893 --> 00:23:00,102
+Como fazemos isso?
+
+489
+00:23:00,102 --> 00:23:03,975
+Vamos mudar sua direção para curva à esquerda três-seis-zero.
+
+490
+00:23:04,000 --> 00:23:06,014
+Isso não me diz nada.
+
+491
+00:23:06,039 --> 00:23:10,225
+Quero que você olhe para a linha superior do seu painel de instrumentos,
+
+492
+00:23:10,250 --> 00:23:11,320
+logo abaixo do para-brisa.
+
+493
+00:23:11,320 --> 00:23:13,150
+- Você vê? - Sim, eu vejo, eu vejo.
+
+494
+00:23:13,150 --> 00:23:15,911
+Ok, bom. Você vê os displays ali?
+
+495
+00:23:15,911 --> 00:23:17,326
+Aqueles com números?
+
+496
+00:23:17,326 --> 00:23:19,605
+Você quer aquele com o título atual.
+
+497
+00:23:19,605 --> 00:23:22,815
+Qual diabos é esse?
+
+498
+00:23:22,815 --> 00:23:24,333
+Este.
+
+499
+00:23:25,473 --> 00:23:26,888
+É aquele que lê...
+
+500
+00:23:26,888 --> 00:23:28,061
+"Dois-seis-zero"?
+
+501
+00:23:28,061 --> 00:23:30,650
+Muito bom. O melhor da classe.
+
+502
+00:23:30,650 --> 00:23:32,445
+Agora você vê o mostrador que está embaixo dele?
+
+503
+00:23:32,445 --> 00:23:34,274
+Eu quero que você vire para a esquerda
+
+504
+00:23:34,274 --> 00:23:37,657
+até que apareça "três-seis-zero".
+
+505
+00:23:43,180 --> 00:23:45,769
+Certo. Entendi. E agora?
+
+506
+00:23:46,839 --> 00:23:48,668
+Agora relaxe.
+
+507
+00:23:48,668 --> 00:23:51,671
+Parabéns, você acabou de dar a volta em um jato.
+
+508
+00:23:51,671 --> 00:23:54,502
+- É isso? - Por enquanto.
+
+509
+00:23:55,719 --> 00:23:58,333
+O que você quer dizer? Quanto tempo demora para filmar uma cena?
+
+510
+00:23:58,333 --> 00:24:00,162
+Ok, vocês estão indo muito bem.
+
+511
+00:24:00,162 --> 00:24:02,441
+Você encontrou alguma coisa que o mantivesse unido?
+
+512
+00:24:02,441 --> 00:24:04,512
+Sim, temos algumas gravatas!
+
+513
+00:24:04,512 --> 00:24:06,583
+Ok, perfeito. O que eu quero que você faça é que eu quero que você
+
+514
+00:24:06,583 --> 00:24:07,963
+para amarrá-lo de forma que fique seguro,
+
+515
+00:24:07,963 --> 00:24:11,035
+mas não tão apertado a ponto de restringir o fluxo sanguíneo.
+
+516
+00:24:11,797 --> 00:24:13,521
+Sinto muito, treinador.
+
+517
+00:24:13,521 --> 00:24:16,178
+Ei. Nós vamos para aquele torneio.
+
+518
+00:24:16,178 --> 00:24:18,457
+E não importa o que aconteça, você ainda está
+
+519
+00:24:18,457 --> 00:24:20,597
+- capitão do time, ok? - Uh-huh.
+
+520
+00:24:20,597 --> 00:24:22,875
+Chaminé!
+
+521
+00:24:22,875 --> 00:24:25,705
+A perna dela está inchando muito!
+
+522
+00:24:25,705 --> 00:24:27,604
+Ah, sinta ao redor do tornozelo dela.
+
+523
+00:24:27,604 --> 00:24:29,502
+Você consegue sentir o pulso dela?
+
+524
+00:24:32,436 --> 00:24:34,473
+- Consegui! - Certo, ótimo.
+
+525
+00:24:34,473 --> 00:24:35,888
+Preciso que você continue verificando.
+
+526
+00:24:35,888 --> 00:24:38,477
+O que acontece se eu não conseguir sentir?
+
+527
+00:24:38,477 --> 00:24:39,788
+Então nos preocupamos.
+
+528
+00:24:39,788 --> 00:24:42,204
+Expire.
+
+529
+00:24:42,204 --> 00:24:45,725
+Dois, três, quatro.
+
+530
+00:24:45,725 --> 00:24:48,556
+Segurar...
+
+531
+00:24:48,556 --> 00:24:50,350
+Hen, acho que isso não está ajudando.
+
+532
+00:24:50,350 --> 00:24:52,870
+Ele ainda está com dificuldade para respirar?
+
+533
+00:24:52,870 --> 00:24:55,873
+Sim. E os lábios dele estão ficando azuis.
+
+534
+00:24:55,873 --> 00:24:58,082
+Tudo bem, Tia, não acho que isso seja um ataque de pânico.
+
+535
+00:25:00,222 --> 00:25:04,917
+Sim, eu também não.
+
+536
+00:25:08,660 --> 00:25:10,336
+Ele está tossindo uma gosma rosa.
+
+537
+00:25:10,361 --> 00:25:12,018
+Isso seria escarro com sangue.
+
+538
+00:25:12,043 --> 00:25:15,046
+Certo, quando o avião subiu, você disse que ele estava com oxigênio?
+
+539
+00:25:15,071 --> 00:25:17,042
+Não, ele quebrou a máscara.
+
+540
+00:25:17,067 --> 00:25:19,414
+Ok, acho que ele tem
+
+541
+00:25:19,414 --> 00:25:21,105
+edema pulmonar de alta altitude.
+
+542
+00:25:21,105 --> 00:25:22,935
+Os alpinistas entendem, é fluido nos pulmões,
+
+543
+00:25:22,935 --> 00:25:25,662
+- afogando-o de dentro para fora. - O que fazemos?
+
+544
+00:25:25,662 --> 00:25:27,387
+O tratamento normal seria levá-lo
+
+545
+00:25:27,387 --> 00:25:29,424
+para o chão, mas como isso não vai acontecer tão cedo,
+
+546
+00:25:29,424 --> 00:25:33,117
+você pode, você pode alcançar uma dessas máscaras de O2?
+
+547
+00:25:46,579 --> 00:25:48,788
+Galinha, o oxigênio não está funcionando.
+
+548
+00:25:48,788 --> 00:25:50,894
+Ok, então precisamos de algo mais forte.
+
+549
+00:25:50,894 --> 00:25:52,792
+Algo que manterá seus vasos sanguíneos dilatados,
+
+550
+00:25:52,792 --> 00:25:55,588
+levando o fluido para fora dos pulmões.
+
+551
+00:25:55,588 --> 00:25:56,796
+Eu tenho uma ideia.
+
+552
+00:25:56,796 --> 00:25:58,280
+Atenção!
+
+553
+00:25:58,280 --> 00:26:01,594
+Alguém aqui tem disfunção erétil?
+
+554
+00:26:01,594 --> 00:26:04,424
+Alguém está carregando sildenafil?
+
+555
+00:26:04,424 --> 00:26:05,909
+Medicamentos para DE.
+
+556
+00:26:05,909 --> 00:26:08,083
+A vida de um homem depende disso.
+
+557
+00:26:08,083 --> 00:26:09,360
+Meu.
+
+558
+00:26:10,948 --> 00:26:12,432
+Certo, quão inchado está agora?
+
+559
+00:26:13,433 --> 00:26:15,470
+Tudo sob o joelho dela,
+
+560
+00:26:15,470 --> 00:26:17,299
+tudo ficou pálido.
+
+561
+00:26:17,299 --> 00:26:18,922
+Tudo bem, preciso que você cuidadosamente
+
+562
+00:26:18,922 --> 00:26:22,511
+retire a tala e sinta o pulso dela.
+
+563
+00:26:25,825 --> 00:26:27,309
+Ai!
+
+564
+00:26:31,175 --> 00:26:33,971
+Nada. Não consigo sentir.
+
+565
+00:26:33,971 --> 00:26:35,628
+Então, o que isso significa?
+
+566
+00:26:35,628 --> 00:26:37,768
+É chamado de síndrome compartimental.
+
+567
+00:26:37,768 --> 00:26:39,770
+A pressão está aumentando, interrompendo o fluxo sanguíneo.
+
+568
+00:26:39,770 --> 00:26:42,014
+Se não a aliviarmos logo, ela pode perder a perna
+
+569
+00:26:42,014 --> 00:26:44,016
+- ou pior ainda. - Bem, como fazemos isso?
+
+570
+00:26:44,016 --> 00:26:45,638
+- Como vamos aliviar isso? - Vamos fazer
+
+571
+00:26:45,638 --> 00:26:47,088
+o que é chamado de fasciotomia.
+
+572
+00:26:47,088 --> 00:26:48,503
+Um o quê?
+
+573
+00:26:48,503 --> 00:26:50,022
+Você vai cortá-lo.
+
+574
+00:26:50,022 --> 00:26:52,369
+Precisamos de algo extremamente afiado.
+
+575
+00:26:52,369 --> 00:26:54,095
+Talheres de avião não funcionam.
+
+576
+00:26:54,095 --> 00:26:55,993
+Tem que ser extremamente afiado.
+
+577
+00:26:55,993 --> 00:26:57,546
+Todos nós passamos pela segurança.
+
+578
+00:26:57,546 --> 00:26:59,997
+Não há nada muito afiado.
+
+579
+00:26:59,997 --> 00:27:01,136
+Eu posso fazer uma lâmina.
+
+580
+00:27:01,136 --> 00:27:03,449
+Me dê uma escova de dentes
+
+581
+00:27:03,449 --> 00:27:04,899
+e um isqueiro.
+
+582
+00:27:06,797 --> 00:27:08,627
+- Você pode levar meu cachorro? - Sim, sim.
+
+583
+00:27:08,627 --> 00:27:10,145
+Obrigado.
+
+584
+00:27:11,699 --> 00:27:14,046
+Certo. Abra bem.
+
+585
+00:27:18,395 --> 00:27:21,398
+Como ele vai engolir tudo quando estiver inconsciente?
+
+586
+00:27:21,398 --> 00:27:24,297
+- Esfregar a garganta dele, como com meu cachorro? - Não faça isso.
+
+587
+00:27:24,297 --> 00:27:25,851
+Não. Ele-ele pode engasgar.
+
+588
+00:27:25,851 --> 00:27:29,026
+Temos que encontrar outra maneira de dar-lhe este medicamento.
+
+589
+00:27:29,026 --> 00:27:31,373
+Olá. Eu de novo.
+
+590
+00:27:31,373 --> 00:27:33,513
+Agora estamos procurando um nebulizador.
+
+591
+00:27:33,513 --> 00:27:37,241
+Então, se alguém tem asma ou...
+
+592
+00:27:37,241 --> 00:27:38,864
+Eu empacotei uma.
+
+593
+00:27:38,864 --> 00:27:40,659
+Para minha DPOC.
+
+594
+00:27:42,902 --> 00:27:43,972
+Vocês dois.
+
+595
+00:27:43,972 --> 00:27:45,249
+Realmente está dando certo.
+
+596
+00:27:45,249 --> 00:27:47,389
+Vantagens de ser idoso, querida.
+
+597
+00:27:53,602 --> 00:27:55,397
+Você está fazendo uma faca de prisão.
+
+598
+00:27:55,397 --> 00:27:57,158
+Onde você aprendeu a fazer isso?
+
+599
+00:27:57,158 --> 00:27:59,263
+Onde você acha?
+
+600
+00:28:03,242 --> 00:28:05,269
+Tudo bem, agora, quando você tiver o pó,
+
+601
+00:28:05,269 --> 00:28:07,513
+misture com água no reservatório.
+
+602
+00:28:07,513 --> 00:28:09,239
+Certo, vou fazer isso.
+
+603
+00:28:19,318 --> 00:28:21,285
+OK.
+
+604
+00:28:21,285 --> 00:28:22,735
+E agora?
+
+605
+00:28:22,735 --> 00:28:25,600
+Ligue-o e reze para que eu esteja certo.
+
+606
+00:28:25,600 --> 00:28:27,706
+Certo. Vamos lá.
+
+607
+00:28:29,155 --> 00:28:30,467
+Vamos.
+
+608
+00:28:40,442 --> 00:28:43,135
+Ele está acordando.
+
+609
+00:28:50,763 --> 00:28:52,627
+Você acabou de me salvar?
+
+610
+00:28:53,662 --> 00:28:56,148
+Eu... acho que sim.
+
+611
+00:28:57,597 --> 00:28:59,461
+Tudo bem, mantenha-o no neb.
+
+612
+00:28:59,461 --> 00:29:00,946
+Deixe os comprimidos fazerem o seu trabalho.
+
+613
+00:29:00,946 --> 00:29:03,051
+E encontre um cobertor e coloque sobre as pernas dele.
+
+614
+00:29:03,051 --> 00:29:04,915
+Para que serve o cobertor?
+
+615
+00:29:04,915 --> 00:29:06,606
+Modéstia.
+
+616
+00:29:08,954 --> 00:29:10,990
+Certo.
+
+617
+00:29:17,445 --> 00:29:19,343
+Ok, isso é afiado.
+
+618
+00:29:23,485 --> 00:29:25,177
+E esterilizado.
+
+619
+00:29:25,177 --> 00:29:26,419
+Aqui.
+
+620
+00:29:26,419 --> 00:29:27,800
+- Eu? - Sim.
+
+621
+00:29:27,800 --> 00:29:29,077
+Nunca esfaqueei ninguém.
+
+622
+00:29:29,077 --> 00:29:30,285
+Bem, eu também não.
+
+623
+00:29:30,285 --> 00:29:31,493
+Alguém!
+
+624
+00:29:31,493 --> 00:29:33,910
+- Alguém! - Certo.
+
+625
+00:29:33,910 --> 00:29:36,429
+Tudo bem. O que eu faço?
+
+626
+00:29:36,429 --> 00:29:38,259
+Ok, preciso que você corte
+
+627
+00:29:38,259 --> 00:29:40,675
+até o músculo, com meia polegada de profundidade.
+
+628
+00:29:40,675 --> 00:29:43,022
+Comece abaixo do joelho, na parte interna da perna.
+
+629
+00:29:46,336 --> 00:29:48,338
+Ok, ok, ok.
+
+630
+00:29:48,338 --> 00:29:49,442
+Oh, Deus!
+
+631
+00:29:49,442 --> 00:29:51,272
+É para fazer barulho?
+
+632
+00:29:51,272 --> 00:29:53,619
+Sim, agora corte até o tornozelo dela.
+
+633
+00:29:53,619 --> 00:29:55,345
+É como cortar uma salsicha.
+
+634
+00:29:57,174 --> 00:29:59,176
+Aguente firme, Donna!
+
+635
+00:30:09,877 --> 00:30:12,155
+Está-está se sentindo melhor.
+
+636
+00:30:13,742 --> 00:30:16,400
+Você cortou minha perna e ela se sentiu melhor.
+
+637
+00:30:16,400 --> 00:30:17,850
+Como é a cor?
+
+638
+00:30:17,850 --> 00:30:19,507
+Está voltando!
+
+639
+00:30:19,507 --> 00:30:20,542
+É rosa.
+
+640
+00:30:20,542 --> 00:30:22,544
+E eu posso sentir um pulso.
+
+641
+00:30:22,544 --> 00:30:24,581
+Lá vamos nós. Bom trabalho, equipe.
+
+642
+00:30:24,581 --> 00:30:26,583
+Bom trabalho, rapazes.
+
+643
+00:30:34,039 --> 00:30:35,730
+Com quem você está aqui?
+
+644
+00:30:35,730 --> 00:30:37,421
+O meu pai.
+
+645
+00:30:38,422 --> 00:30:39,838
+Ele sabe que você está aqui?
+
+646
+00:30:39,838 --> 00:30:41,909
+Ele está ajudando uma senhora.
+
+647
+00:30:42,944 --> 00:30:46,396
+Vocês dois vão para o Havaí de férias?
+
+648
+00:30:46,396 --> 00:30:48,294
+É o aniversário da minha mãe.
+
+649
+00:30:49,543 --> 00:30:51,320
+Ela mora lá fora?
+
+650
+00:30:53,265 --> 00:30:56,406
+Perdemos a mãe do Jem há alguns anos,
+
+651
+00:30:56,406 --> 00:30:59,305
+então gostamos de fazer coisas que ela gostava de fazer. Você sabe, para comemorar.
+
+652
+00:31:00,711 --> 00:31:02,022
+Vamos, Jem.
+
+653
+00:31:02,047 --> 00:31:03,862
+Precisamos voltar aos nossos lugares.
+
+654
+00:31:03,862 --> 00:31:07,003
+Olá, obrigado pela ajuda.
+
+655
+00:31:07,003 --> 00:31:08,590
+Sem problemas.
+
+656
+00:31:13,216 --> 00:31:16,253
+Isso sim é assustador.
+
+657
+00:31:17,945 --> 00:31:20,430
+Como estão todos aí?
+
+658
+00:31:20,430 --> 00:31:21,638
+Eles estão todos vivos.
+
+659
+00:31:21,638 --> 00:31:25,021
+Seus amigos no chão cuidaram disso.
+
+660
+00:31:25,021 --> 00:31:26,885
+Ei, falando em chão,
+
+661
+00:31:26,885 --> 00:31:30,594
+os poderosos já sabem como nos levarão até lá?
+
+662
+00:31:30,619 --> 00:31:32,069
+Sim, eles têm um plano.
+
+663
+00:31:32,373 --> 00:31:34,444
+Eles querem que eu pouse o avião.
+
+664
+00:31:34,444 --> 00:31:36,204
+Ahã.
+
+665
+00:31:36,204 --> 00:31:39,207
+Agradeço o voto de confiança.
+
+666
+00:31:39,207 --> 00:31:40,617
+Ei!
+
+667
+00:31:41,485 --> 00:31:42,831
+Ouvir.
+
+668
+00:31:43,971 --> 00:31:47,560
+Se alguém nesta coisa pode fazer isso,
+
+669
+00:31:47,560 --> 00:31:49,528
+Eu apostaria meu dinheiro em você.
+
+670
+00:31:50,529 --> 00:31:54,153
+Mas caso as coisas não saiam como gostaríamos,
+
+671
+00:31:54,153 --> 00:31:57,294
+talvez devêssemos ligar para lá e avisar outra pessoa
+
+672
+00:31:57,294 --> 00:31:59,607
+onde está o livro preto de Fulton.
+
+673
+00:31:59,607 --> 00:32:02,334
+Só para o caso de não conseguirmos.
+
+674
+00:32:04,370 --> 00:32:06,545
+Você tem alguém em quem confia?
+
+675
+00:32:08,340 --> 00:32:10,273
+Sim, eu faço.
+
+676
+00:32:12,171 --> 00:32:14,691
+Simplesmente não consegui falar com ele.
+
+677
+00:32:22,941 --> 00:32:24,321
+Você sabe,
+
+678
+00:32:24,321 --> 00:32:27,117
+Eu sempre achei que essa coisa de cão de apoio era besteira,
+
+679
+00:32:27,117 --> 00:32:29,844
+mas há algo nisso.
+
+680
+00:32:29,844 --> 00:32:31,156
+Onde está o mordomo?
+
+681
+00:32:31,156 --> 00:32:33,158
+Eu gostaria de uma ginger ale.
+
+682
+00:32:33,158 --> 00:32:35,643
+Acho que suspenderam o serviço de cabine, querida.
+
+683
+00:32:36,644 --> 00:32:39,681
+Gente, eu sei que é assustador,
+
+684
+00:32:39,681 --> 00:32:43,547
+e... eu sei que minha perna está realmente nojenta.
+
+685
+00:32:44,583 --> 00:32:46,965
+Mas a gente se adapta, né?
+
+686
+00:32:46,965 --> 00:32:48,725
+Nós conseguimos.
+
+687
+00:32:48,725 --> 00:32:50,899
+Nós vamos ficar bem.
+
+688
+00:33:06,042 --> 00:33:08,996
+Janowitz, quero esse relatório na minha mesa amanhã de manhã.
+
+689
+00:33:09,021 --> 00:33:10,540
+E com verificação ortográfica dessa vez.
+
+690
+00:33:10,540 --> 00:33:12,542
+Capitão Maynard, uma palavra.
+
+691
+00:33:12,542 --> 00:33:14,544
+Pensei que vocês dois estivessem no LAX, pegando seu prisioneiro.
+
+692
+00:33:14,544 --> 00:33:15,717
+Nós éramos.
+
+693
+00:33:15,717 --> 00:33:17,823
+Um pequeno problema.
+
+694
+00:33:17,823 --> 00:33:19,376
+Nosso prisioneiro não estava no voo.
+
+695
+00:33:19,376 --> 00:33:21,068
+Nem o seu sargento Grant.
+
+696
+00:33:21,068 --> 00:33:23,553
+Então, gostaríamos muito que pudéssemos ter um momento.
+
+697
+00:33:23,553 --> 00:33:25,555
+Qualquer informação que você possa ter sobre...
+
+698
+00:33:25,555 --> 00:33:27,936
+Onde diabos eles dois podem estar agora?
+
+699
+00:33:29,110 --> 00:33:30,767
+Tem certeza de que foi para o portão certo?
+
+700
+00:33:30,767 --> 00:33:33,313
+Sim, fomos para o portão certo e para o aeroporto certo.
+
+701
+00:33:33,338 --> 00:33:35,220
+Mas talvez não tenhamos escolhido o policial certo para o trabalho.
+
+702
+00:33:35,220 --> 00:33:36,704
+Você não a escolheu, lembra?
+
+703
+00:33:36,704 --> 00:33:38,326
+Dennis Jenkins fez isso.
+
+704
+00:33:38,326 --> 00:33:39,914
+Deixe-me tentar o celular dela.
+
+705
+00:33:39,914 --> 00:33:41,950
+Já fizemos isso inúmeras vezes.
+
+706
+00:33:43,055 --> 00:33:45,057
+- Sempre vai direto para... - Correio de voz.
+
+707
+00:33:45,057 --> 00:33:46,783
+Capitão Maynard?
+
+708
+00:33:46,783 --> 00:33:49,268
+Temos que enfatizar para você o quão sério
+
+709
+00:33:49,268 --> 00:33:50,289
+esse assunto é?
+
+710
+00:33:50,314 --> 00:33:52,488
+Ah, estou perfeitamente ciente do que está em jogo.
+
+711
+00:33:52,513 --> 00:33:53,686
+Talvez você não esteja,
+
+712
+00:33:53,686 --> 00:33:55,412
+porque se Dennis Jenkins não for entregue a nós
+
+713
+00:33:55,412 --> 00:33:56,689
+algemado e inteiro
+
+714
+00:33:56,689 --> 00:33:57,759
+- dentro de uma hora... - O quê?
+
+715
+00:33:57,759 --> 00:33:59,761
+Você vai ficar com o distintivo do Sargento Grant?
+
+716
+00:33:59,761 --> 00:34:01,384
+Não só dela.
+
+717
+00:34:02,799 --> 00:34:04,249
+Senhores,
+
+718
+00:34:04,249 --> 00:34:06,768
+Tenho certeza de que existe uma solução perfeitamente simples
+
+719
+00:34:06,768 --> 00:34:08,598
+explicação para o que aconteceu.
+
+720
+00:34:08,598 --> 00:34:11,428
+E qualquer que seja a situação em que Atena se encontre
+
+721
+00:34:11,428 --> 00:34:12,636
+com Dennis Jenkins,
+
+722
+00:34:12,636 --> 00:34:17,124
+Tenho 100% de certeza de que ela está com tudo sob controle.
+
+723
+00:34:21,300 --> 00:34:23,785
+Sargento Grant, o que está acontecendo aí em cima?
+
+724
+00:34:23,785 --> 00:34:26,478
+Aquele buraco na parte de trás do avião,
+
+725
+00:34:26,478 --> 00:34:27,789
+ficou maior.
+
+726
+00:34:27,789 --> 00:34:29,619
+Velocidade do ar caindo para 220 nós.
+
+727
+00:34:32,139 --> 00:34:34,279
+Agora são 210.
+
+728
+00:34:35,832 --> 00:34:37,834
+Descendo a 9.000 pés.
+
+729
+00:34:45,669 --> 00:34:48,155
+Não, não, Jem, não. Não.
+
+730
+00:34:48,155 --> 00:34:49,777
+Eu posso ajudar.
+
+731
+00:34:51,158 --> 00:34:52,987
+Ok, ok. Vai.
+
+732
+00:34:53,953 --> 00:34:55,334
+Descendo para 8.200 pés.
+
+733
+00:34:55,334 --> 00:34:56,646
+Eles estão caindo do céu.
+
+734
+00:34:56,646 --> 00:34:57,854
+Falem comigo, pessoal.
+
+735
+00:34:57,854 --> 00:34:58,875
+O que diabos está acontecendo?
+
+736
+00:34:58,900 --> 00:35:00,107
+É a brecha na fuselagem.
+
+737
+00:35:00,132 --> 00:35:02,134
+Todo o vento na cabine está criando arrasto.
+
+738
+00:35:02,134 --> 00:35:04,688
+Isso está te atrasando e te puxando para baixo.
+
+739
+00:35:04,688 --> 00:35:06,138
+Diga-me como parar isso.
+
+740
+00:35:06,138 --> 00:35:08,175
+Você tem que acelerar.
+
+741
+00:35:08,937 --> 00:35:10,697
+Desculpe, ele insistiu.
+
+742
+00:35:11,143 --> 00:35:13,145
+Senhor, volte ao seu lugar, por favor.
+
+743
+00:35:13,145 --> 00:35:15,354
+E você, aperte o cinto.
+
+744
+00:35:16,459 --> 00:35:18,357
+Estamos todos mais seguros com ele aqui.
+
+745
+00:35:18,357 --> 00:35:20,911
+Eu consigo fazer isso, pai.
+
+746
+00:35:25,053 --> 00:35:26,883
+Eu te amo.
+
+747
+00:35:26,883 --> 00:35:28,229
+OK?
+
+748
+00:35:30,473 --> 00:35:31,681
+Eu te amo.
+
+749
+00:35:36,479 --> 00:35:38,722
+Está ficando turbulento, ATC.
+
+750
+00:35:38,722 --> 00:35:41,484
+Certo, precisamos adicionar 30% a mais de empuxo para compensar.
+
+751
+00:35:41,484 --> 00:35:43,417
+Encontre a alavanca, empurre-a para frente
+
+752
+00:35:47,421 --> 00:35:49,181
+Quão longe?
+
+753
+00:35:49,181 --> 00:35:50,941
+Até o fim.
+
+754
+00:35:56,015 --> 00:35:59,329
+Continue até que o indicador mostre 250.
+
+755
+00:36:00,606 --> 00:36:02,677
+Agora, o nariz vai querer se inclinar para cima,
+
+756
+00:36:02,677 --> 00:36:05,715
+mas o piloto automático vai compensar.
+
+757
+00:36:13,861 --> 00:36:16,070
+Piloto automático desconectado.
+
+758
+00:36:16,070 --> 00:36:17,589
+Piloto automático desconectado.
+
+759
+00:36:17,589 --> 00:36:20,074
+O piloto automático simplesmente falhou.
+
+760
+00:36:20,074 --> 00:36:21,248
+É o problema.
+
+761
+00:36:21,248 --> 00:36:23,042
+Você precisa abaixar o nariz manualmente,
+
+762
+00:36:23,042 --> 00:36:24,734
+mas apenas cinco graus.
+
+763
+00:36:24,734 --> 00:36:26,218
+Como faço isso?
+
+764
+00:36:26,218 --> 00:36:28,841
+Certo, você vê aquela coisa que parece um joystick?
+
+765
+00:36:28,841 --> 00:36:30,567
+Bom, funciona como um também.
+
+766
+00:36:30,567 --> 00:36:33,743
+Mas você tem que ser muito gentil.
+
+767
+00:36:33,743 --> 00:36:35,262
+Eu entendi.
+
+768
+00:36:48,274 --> 00:36:51,485
+ATC, estamos nivelados com o horizonte.
+
+769
+00:37:05,153 --> 00:37:07,466
+250 nós. Você pode colocar isso de volta agora.
+
+770
+00:37:14,301 --> 00:37:15,750
+Bom trabalho.
+
+771
+00:37:15,750 --> 00:37:18,512
+Sargento Grant, tem alguém na cabine com você?
+
+772
+00:37:19,961 --> 00:37:22,274
+Acabei de contratar um copiloto.
+
+773
+00:37:22,274 --> 00:37:23,758
+Diga olá, Jem.
+
+774
+00:37:23,758 --> 00:37:25,139
+Olá.
+
+775
+00:37:27,037 --> 00:37:28,246
+É uma criança?
+
+776
+00:37:28,246 --> 00:37:29,592
+Seja quem for,
+
+777
+00:37:29,592 --> 00:37:31,801
+ela tem muita sorte de tê-lo. Essa foi por pouco.
+
+778
+00:37:31,801 --> 00:37:34,079
+- Pelo menos ainda está no céu. - Por pouco.
+
+779
+00:37:34,079 --> 00:37:36,978
+Com esse arrasto contínuo naquela fuselagem comprometida,
+
+780
+00:37:36,978 --> 00:37:39,429
+a coisa toda pode desmoronar a qualquer momento.
+
+781
+00:37:39,429 --> 00:37:41,776
+Precisamos colocá-los no chão imediatamente.
+
+782
+00:37:41,776 --> 00:37:43,399
+Todos os voos de saída foram cancelados.
+
+783
+00:37:43,399 --> 00:37:45,435
+Tudo o que entrava era desviado.
+
+784
+00:37:45,435 --> 00:37:47,265
+Então só resta uma coisa a fazer.
+
+785
+00:37:48,611 --> 00:37:50,268
+Todas as empresas do Batalhão 4 do LAX
+
+786
+00:37:50,268 --> 00:37:52,994
+responder à pista sul. Atribuição completa da aeronave.
+
+787
+00:37:52,994 --> 00:37:54,858
+Força-Tarefa 118, Resgate 118,
+
+788
+00:37:54,858 --> 00:37:57,827
+Estações 119, 133,
+
+789
+00:37:57,827 --> 00:37:59,311
+prepare-se para pouso de emergência
+
+790
+00:37:59,311 --> 00:38:01,140
+Isso é quase metade do departamento.
+
+791
+00:38:01,140 --> 00:38:02,763
+Valeu!
+
+792
+00:38:02,763 --> 00:38:03,833
+Temos uma chamada.
+
+793
+00:38:03,833 --> 00:38:05,662
+Encontro vocês no LAX.
+
+794
+00:38:05,662 --> 00:38:06,870
+Onde você está indo?
+
+795
+00:38:06,870 --> 00:38:08,147
+Para encontrar Bobby.
+
+796
+00:38:27,463 --> 00:38:30,320
+Keystar 63, você está entrando no ambiente de aproximação
+
+797
+00:38:30,345 --> 00:38:32,768
+- para controle de radar no sul da Califórnia. - O que isso significa?
+
+798
+00:38:32,793 --> 00:38:34,829
+Significa que é hora de discutir
+
+799
+00:38:34,829 --> 00:38:37,315
+procedimentos iniciais de descida. Você está pronto?
+
+800
+00:38:38,281 --> 00:38:39,731
+Eu tenho escolha?
+
+801
+00:38:39,731 --> 00:38:41,249
+Sargento Grant, nós liberamos
+
+802
+00:38:41,249 --> 00:38:43,631
+todo o espaço aéreo e pistas do LAX.
+
+803
+00:38:43,631 --> 00:38:45,253
+Você terá tudo só para você.
+
+804
+00:38:45,253 --> 00:38:47,394
+Estaremos em seu ouvido a cada passo do caminho.
+
+805
+00:38:49,948 --> 00:38:53,227
+Certo. Certo, ATC, vamos fazer isso.
+
+806
+00:38:53,227 --> 00:38:55,712
+Enquanto ainda temos um avião para pousar.
+
+807
+00:38:56,886 --> 00:38:58,370
+Sargento!
+
+808
+00:38:58,370 --> 00:39:00,407
+Você vai querer ver isso.
+
+809
+00:39:01,304 --> 00:39:02,788
+Deus, e agora?
+
+810
+00:39:04,411 --> 00:39:06,516
+Espere, senhor.
+
+811
+00:39:06,516 --> 00:39:08,725
+Nós vamos tirar você desse banheiro.
+
+812
+00:39:11,763 --> 00:39:13,351
+Cap, eu o vejo.
+
+813
+00:39:13,351 --> 00:39:16,250
+Tudo bem.
+
+814
+00:39:16,250 --> 00:39:18,563
+Isso é almoço!
+
+815
+00:39:20,875 --> 00:39:22,567
+Olá. Olá, Bobby. Bobby...
+
+816
+00:39:22,567 --> 00:39:24,120
+- Ei. Ei, Brad. - Você tem um segundo?
+
+817
+00:39:24,120 --> 00:39:25,397
+Ah, você foi ótima naquela última cena, sim.
+
+818
+00:39:25,397 --> 00:39:26,502
+Ah, é mesmo? Você pensou assim, sério?
+
+819
+00:39:26,502 --> 00:39:28,227
+- Sim, coisas convincentes. - Ei, eu estava pensando,
+
+820
+00:39:28,227 --> 00:39:29,953
+você teve a chance de pensar sobre o que conversamos?
+
+821
+00:39:29,953 --> 00:39:32,197
+Sim, mas quero pensar mais um pouco sobre isso.
+
+822
+00:39:32,197 --> 00:39:33,854
+Agora, preciso falar com minha esposa.
+
+823
+00:39:33,854 --> 00:39:35,925
+- Bem, esposa feliz, vida feliz. - Você disse isso.
+
+824
+00:39:35,925 --> 00:39:38,410
+E no meu caso, esposas. Cinco.
+
+825
+00:39:38,410 --> 00:39:40,308
+- Você deve ser um cara feliz. - Sim.
+
+826
+00:39:40,308 --> 00:39:42,103
+O que sabemos até agora é isto:
+
+827
+00:39:42,103 --> 00:39:44,312
+o avião colidiu com uma aeronave menor
+
+828
+00:39:44,312 --> 00:39:48,040
+em sua descida para Los Angeles e foi seriamente danificado.
+
+829
+00:39:48,040 --> 00:39:49,456
+Bobby...
+
+830
+00:39:51,147 --> 00:39:52,424
+Eu te amo bebê.
+
+831
+00:39:52,424 --> 00:39:53,977
+As últimas notícias de última hora
+
+832
+00:39:53,977 --> 00:39:56,117
+sobre a crise em curso no céu.
+
+833
+00:39:56,117 --> 00:39:58,534
+Nenhuma informação ainda sobre o que aconteceu com a outra aeronave,
+
+834
+00:39:58,534 --> 00:40:00,743
+mas o wide-body, supostamente,
+
+835
+00:40:00,743 --> 00:40:02,952
+está sendo pilotado agora por um passageiro.
+
+836
+00:40:03,867 --> 00:40:06,318
+Eles disseram de onde o voo decolou?
+
+837
+00:40:06,343 --> 00:40:07,827
+Bobinho!
+
+838
+00:40:07,852 --> 00:40:09,416
+Ah, você deve estar brincando comigo.
+
+839
+00:40:09,441 --> 00:40:11,270
+Bobo! Bobo!
+
+840
+00:40:11,270 --> 00:40:13,307
+Athena está naquele voo, não é?
+
+841
+00:40:13,307 --> 00:40:14,412
+- Ela está pilotando. - Claro que está.
+
+842
+00:40:14,412 --> 00:40:15,723
+O que mais ela estaria fazendo?
+
+843
+00:40:15,723 --> 00:40:17,622
+Central despachou, tipo, todas as empresas da cidade
+
+844
+00:40:17,622 --> 00:40:19,347
+para LAX para um pouso de emergência.
+
+845
+00:40:19,347 --> 00:40:21,280
+- Tudo bem, onde está seu carro? - É por aqui.
+
+846
+00:40:21,280 --> 00:40:23,144
+As ruas estavam congestionadas. Levei uma eternidade para chegar aqui.
+
+847
+00:40:23,144 --> 00:40:24,318
+Tudo bem, vamos levar isso.
+
+848
+00:40:24,318 --> 00:40:25,975
+Seriamente?
+
+849
+00:40:25,975 --> 00:40:27,839
+Sim, sério. Entre, vamos lá.
+
+850
+00:40:33,189 --> 00:40:34,949
+Tudo bem, rapazes.
+
+851
+00:40:34,949 --> 00:40:36,330
+Vamos montar.
+
+852
+00:40:36,330 --> 00:40:37,814
+Brad...
+
+853
+00:40:38,850 --> 00:40:39,954
+Qualquer que seja.
+
+854
+00:40:42,509 --> 00:40:45,684
+Ele começou a resmungar e então se sentou.
+
+855
+00:40:45,684 --> 00:40:47,790
+Como você está se sentindo?
+
+856
+00:40:48,791 --> 00:40:51,345
+Na verdade, meio inchado.
+
+857
+00:40:51,345 --> 00:40:52,691
+Minha perna dói.
+
+858
+00:40:52,691 --> 00:40:54,969
+Estou feliz que você esteja vivo.
+
+859
+00:40:54,969 --> 00:40:57,800
+E mais do que um pouco feliz que você esteja acordado.
+
+860
+00:40:59,836 --> 00:41:01,148
+Capitão Dominguez?
+
+861
+00:41:04,254 --> 00:41:06,947
+- Mais alguma vítima? - Não.
+
+862
+00:41:06,947 --> 00:41:09,950
+Alguns ferimentos, mas nós a mantivemos no ar
+
+863
+00:41:09,950 --> 00:41:11,227
+só esperando por você.
+
+864
+00:41:11,227 --> 00:41:13,712
+Alguém sabe onde estamos?
+
+865
+00:41:13,712 --> 00:41:17,371
+Sim, acabamos de cruzar o controle de radar do sul da Califórnia.
+
+866
+00:41:17,371 --> 00:41:19,787
+Quem fez o avião dar meia volta?
+
+867
+00:41:19,787 --> 00:41:22,203
+- Sim. - Você é piloto?
+
+868
+00:41:22,203 --> 00:41:23,867
+Sargento de campo do LAPD.
+
+869
+00:41:23,892 --> 00:41:25,929
+Uau, mas eu provavelmente deveria assumir.
+
+870
+00:41:25,954 --> 00:41:27,611
+Sim, acho que todos nós preferiríamos isso, sim.
+
+871
+00:41:27,899 --> 00:41:31,385
+ATC, você está entendendo tudo isso?
+
+872
+00:41:31,385 --> 00:41:33,214
+Entendido.
+
+873
+00:41:33,214 --> 00:41:35,216
+Temos um piloto licenciado a bordo.
+
+874
+00:41:35,216 --> 00:41:38,012
+Uma atitude consciente, claro.
+
+875
+00:41:38,012 --> 00:41:41,050
+Você chegou na festa bem na hora.
+
+876
+00:41:41,050 --> 00:41:42,534
+Sargento, não posso
+
+877
+00:41:42,534 --> 00:41:45,537
+dizer a vocês o alívio que isso é para nós aqui na terra.
+
+878
+00:41:45,537 --> 00:41:48,333
+E nós no céu também.
+
+879
+00:41:48,333 --> 00:41:49,645
+Tudo bem. Certo, me ajude a levantar.
+
+880
+00:41:53,925 --> 00:41:55,236
+Espere. Espere.
+
+881
+00:41:55,236 --> 00:41:57,238
+- Você está bem? - Sim.
+
+882
+00:41:57,238 --> 00:41:59,068
+Sim. Apenas deixe...
+
+883
+00:41:59,068 --> 00:42:00,069
+deixa eu pegar meu...
+
+884
+00:42:00,069 --> 00:42:01,242
+O que está acontecendo?
+
+885
+00:42:01,242 --> 00:42:02,968
+Coloque-o no chão!
+
+886
+00:42:05,108 --> 00:42:07,594
+Acho que ele está tendo um ataque cardíaco.
+
+887
+00:42:08,629 --> 00:42:09,768
+Sem pulso!
+
+888
+00:42:09,768 --> 00:42:12,253
+Começando as compressões!
+
+889
+00:42:14,048 --> 00:42:17,535
+Vamos! Vamos!
+
+890
+00:42:18,701 --> 00:42:22,701
+- Sincronizado e corrigido por synck - - www.addic7ed.com -
